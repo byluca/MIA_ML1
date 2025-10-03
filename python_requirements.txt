@@ -1,0 +1,9 @@
+jupyterlab
+IPyKernel==6.25.1
+jupyter-pluto-proxy==0.1.2
+Matplotlib==3.7.2
+Numpy==1.25.2
+Pandas==2.1.0
+Plotly==5.16.1
+rich==13.5.2
+seaborn==0.12.2
